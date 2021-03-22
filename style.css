@@ -482,6 +482,7 @@ header{
     margin-top: 30px;
 }
 .image-one{
+    width: 33%;
     padding-right: 15px;
     padding-left: 15px;
 }
@@ -489,7 +490,7 @@ header{
     box-shadow: 2px 2px 20px 0 rgb(0 0 0 / 30%);
 }
 .image-one img{
-    width:300px;
+    width:350px;
     height: 220px;
 }
 .image-one p{

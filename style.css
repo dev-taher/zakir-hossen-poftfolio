@@ -485,6 +485,7 @@ header{
     width: 33%;
     padding-right: 15px;
     padding-left: 15px;
+    border-radius: 5px;
 }
 .image-one:hover{
     box-shadow: 2px 2px 20px 0 rgb(0 0 0 / 30%);
@@ -497,11 +498,14 @@ header{
     font-size: 13px;
     color: #959595;
     text-transform: capitalize;
+    margin-left: 10px;
+    margin-top: 10px;
 }
 .image-one h6{
     font-size: 16px;
     font-weight: 600;
     margin-bottom: 10px;
+    margin-left: 10px;
     color: #484848;
     width: 200px;
 }
